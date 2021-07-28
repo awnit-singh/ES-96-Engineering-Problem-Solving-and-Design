@@ -1,0 +1,2 @@
+# ES-96-Engineering-Problem-Solving-and-Design
+As part of the engineering curriculum, we work with a client for a semester to solve a self defined problem using engineering design principles. We worked with Dana-Farber Cancer Institute’s Global Health Initiative to identify engineering solutions that could reduce global unequal access to paediatric oncology care and associated disparities in outcomes.
