@@ -7,4 +7,5 @@ Through a process of investigation and ideation, where our team spent six weeks 
 <img width="359" alt="Screenshot 2021-07-28 at 3 01 06 PM" src="https://user-images.githubusercontent.com/21991038/127380826-8f098d97-8eca-4812-952e-f9a3af0160cf.png">
  <figcaption>Image of project manager wearing vital sign monitor on top of clothing</figcaption>
 </figure>
+
 Image from: https://www.seas.harvard.edu/news/2019/01/vital-solution 
